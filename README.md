@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel, Vue, MySQL, Python**
 
-- 🌱 I’m currently learning **AWS, Django**
+- 🌱 I’m currently learning **AWS, Django, MERN**
 
 - ⚡ Fun fact **I am a Foodie and like to Travel**
 
