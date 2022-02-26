@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Currently, I am working as a Senior Web Developer at EnerGaia Co., Ltd. I have expertize on Laravel, Vue, WordPress, MySQL, DigitalOcean, CircleCi. I also have a bit experience working on C#, Python, C#, ASP.Net MVC, ASP.Net Core MVC and MSSQL. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack and AWS.
+Currently, I am working as Senior Web Developer at EnerGaia Co., Ltd. I have expertize on Laravel, Vue, WordPress, MySQL, DigitalOcean, CircleCi. I also have a bit experience working on Python, C#, ASP.Net MVC, ASP.Net Core MVC and MSSQL. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack and AWS.
 
 
 ### 🛠 &nbsp;Tech Stack
