@@ -3,8 +3,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Currently, I am working as Senior Web Developer at EnerGaia Co., Ltd. I have expertise in PHP server-side programming and JavaScript technologies. So far I have professional experience working with PHP, JavaScript, Laravel, VueJS, ReactJS, NextJS, Redux, WordPress, WooCommerce, Shopify, MySQL, HTML5, CSS3, Bootstrap, JQuery, NodeJS, PHPUnit, Jest, Git/GitHub, Git/BitBucket, Git/GitLab, CircleCi, Server Side Administration for Digital Ocean. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack and AWS.
+Currently, I am working as Senior Web Developer at EnerGaia Co., Ltd. I have expertise in PHP server-side programming and JavaScript technologies. So far I have professional experience working with PHP, JavaScript, Laravel, VueJS, ReactJS, NextJS, Redux, WordPress, WooCommerce, Shopify, MySQL, HTML5, CSS3, TailwindCSS, Bootstrap, JQuery, NodeJS, PHPUnit, Jest, Git/GitHub, Git/BitBucket, Git/GitLab, CircleCi, Server Side Administration for Digital Ocean. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack and AWS.
 
+### Working on these following personal projects:
+- [AnonJobs](https://github.com/shreyasarker/anonjobs)
+- [TecAlley](https://github.com/shreyasarker/tecAlley)
+- [LaraVue Music App](https://github.com/shreyasarker/laravue-music-app-frontend)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,6 +23,7 @@ Currently, I am working as Senior Web Developer at EnerGaia Co., Ltd. I have exp
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white)&nbsp;
