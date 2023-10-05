@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Currently, I am working as Senior Web Developer at EnerGaia Co., Ltd. I have expertise in PHP server-side programming and JavaScript technologies. So far I have professional experience working with PHP, JavaScript, Laravel, VueJS, ReactJS, NextJS, NuxtJS, Redux, Pinia, WordPress, WooCommerce, Shopify, MySQL, HTML5, CSS3, TailwindCSS, Bootstrap, JQuery, NodeJS, PHPUnit, Jest, Git/GitHub, Git/BitBucket, Git/GitLab, CircleCi, Server Side Administration for Digital Ocean. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack.
+Currently, I am working as Senior Software Engineer at Codified Ventures. I have expertise in PHP server-side programming and JavaScript technologies. So far I have professional experience working with PHP, JavaScript, Laravel, VueJS, ReactJS, NextJS, NuxtJS, Redux, Pinia, WordPress, WooCommerce, Shopify, MySQL, HTML5, CSS3, TailwindCSS, Bootstrap, JQuery, NodeJS, PHPUnit, Jest, Git/GitHub, Git/BitBucket, Git/GitLab, CircleCi, Server Side Administration for Digital Ocean. It is my belief that there is always more to learn, therefore, I am enthusiastically grabbing onto new skills to my repertoire. So, I am currently learning MERN Stack.
 
 ### Working on the following personal projects:
 - [AnonJobs](https://github.com/shreyasarker/anonjobs)
